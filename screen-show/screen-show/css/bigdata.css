@@ -275,9 +275,9 @@ body {
 
 /* 主机状态*/
 #zjzt {
-  width: 454px;
+  width: 434px;
   position: absolute;
-  right: -23px;
+  right: 0px;
   top: 810px; }
   #zjzt h2 {
     text-indent: 17px; }
@@ -321,7 +321,7 @@ body {
       animation: anim-rotatey 2s linear infinite; }
   #zjzt ._status-item {
     position: absolute;
-    width: 131px;
+    width: 111px;
     /* background-color: rgba(0, 128, 0, 0.64);*/
     height: 100%; }
     #zjzt ._status-item.green {
